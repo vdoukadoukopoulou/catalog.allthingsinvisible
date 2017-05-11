@@ -1,0 +1,74 @@
+body {
+    overflow: hidden;
+    font-family: 'Overpass', 'Ubuntu', sans-serif;
+    font-weight: 400;
+    text-align: left;
+    font-size: 2rem;
+    margin: 200px;
+    margin-right: 400px;
+    margin-top: 400px;
+    margin-bottom: 200px;
+    color: grey;
+    line-height: 2.3rem;
+    animation-name: background;
+    animation-duration: 300s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.blocking {
+    width: 100%;
+    background-color: inherit;
+    animation-name: background;
+    animation-duration: 300s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    height: 240px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 900;
+}
+
+.title p {
+    margin: 0;
+    font-weight: bold;
+}
+
+.paragraph {
+    opacity: .8;
+}
+
+.quote {
+    margin-top: 40px;
+}
+
+.quote p {
+    margin: 0;
+    font-style: italic;
+    opacity: .7;
+}
+
+.typed-cursor {
+    display: none;
+}
+
+@-webkit-keyframes background {
+    0% {
+        background-color: white;
+    }
+    100% {
+        background-color: yellow;
+    }
+}
+
+@keyframes background {
+    0% {
+        background-color: white;
+    }
+    100% {
+        background-color: yellow;
+    }
+}

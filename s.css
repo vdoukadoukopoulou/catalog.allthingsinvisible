@@ -1,0 +1,21 @@
+body {
+    font-family: 'Overpass', 'Fira Sans', sans-serif;
+    font-size: 26px;
+    line-height: 32px;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    margin: 10% 10%;
+    cursor: none;
+    color: white;
+    background-color: #3c00ff;
+}
+
+.line {}
+
+.timelist:after {
+    content: ", ";
+}
+
+.timelist:last-child:after {
+    content: "";
+}
