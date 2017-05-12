@@ -9,13 +9,13 @@ $(document).ready(function() {
 
 		'<p>Neumayer Station III, Antartica <br>2015-10-04 GMT 07:20:07<br>640 × 480 pixels<br>RGB</p><br>The Neumayer Station, a white long rectangular building propped up in a series of black pillars sits on a thick bed of ice at the right far back corner of the picture. The foreground is completely filled by the tight packed snow, that looks like a solid blank mass. The rest of image is taken up by thick white clouds, making it almost impossible to separate land and sky.',
 
-		'<p>Neumayer Station III, Antartica<br>2015-10-07 GMT 07:49:09<br>640 × 480 pixels<br>RGB</p><br>The Neumayer Station, a white long rectangular building propped up in a series of black pillars sits on a thick bed of ice at the right far back corner of the picture. A white ramp extends outwards at the base of the building. The sun shines brightly. The snow in the foreground looks as if it has been chiselled by hand. The clear bleu sky serves as the background.',
+		'<p>Neumayer Station III, Antartica<br>2015-10-07 GMT 07:49:09<br>640 × 480 pixels<br>RGB</p><br>The Neumayer Station, a white long rectangular building propped up in a series of black pillars sits on a thick bed of ice at the right far back corner of the picture. A white ramp extends outwards at the base of the building. The sun shines brightly. The snow in the foreground looks as if it has been chiselled by hand. The clear blue sky serves as the background.',
 
-		'<p>Neumayer Station III, Antartica <br>2015-10-12 GMT 08:39:14<br>640 × 480 pixels<br>RGB</p><br>The Neumayer Station, a white long rectangular building propped up in a series of black pillars sits on a thick bed of ice at the right far back corner of the picture. A white ramp extends outwards at the base of the building. A small cloud of smoke floats in the middle of the facade. The sun shines brightly. The snow in the foreground looks as if it has been chiselled by hand. The clear bleu sky serves as the background.',
+		'<p>Neumayer Station III, Antartica <br>2015-10-12 GMT 08:39:14<br>640 × 480 pixels<br>RGB</p><br>The Neumayer Station, a white long rectangular building propped up in a series of black pillars sits on a thick bed of ice at the right far back corner of the picture. A white ramp extends outwards at the base of the building. A small cloud of smoke floats in the middle of the facade. The sun shines brightly. The snow in the foreground looks as if it has been chiselled by hand. The clear blue sky serves as the background.',
 
-		'<p>Neumayer Station III, Antartica <br>2015-10-13 GMT 08:49:16<br>640 × 480 pixels<br>RGB</p><br>The Neumayer Station, a white long rectangular building propped up in a series of black pillars sits on a thick bed of ice at the right far back corner of the picture. A white ramp extends outwards at the base of the building. A small cloud of smoke has risen slightly above the facade of the station. The sun shines brightly. The snow in the foreground looks as if it has been chiselled by hand. The clear bleu sky serves as the background.',
+		'<p>Neumayer Station III, Antartica <br>2015-10-13 GMT 08:49:16<br>640 × 480 pixels<br>RGB</p><br>The Neumayer Station, a white long rectangular building propped up in a series of black pillars sits on a thick bed of ice at the right far back corner of the picture. A white ramp extends outwards at the base of the building. A small cloud of smoke has risen slightly above the facade of the station. The sun shines brightly. The snow in the foreground looks as if it has been chiselled by hand. The clear blue sky serves as the background.',
 
-		'<p>Neumayer Station III, Antartica <br>2015-10-14 GMT 08:59:09<br>640 × 480 pixels<br>RGB</p><br>The Neumayer Station, a white long rectangular building propped up in a series of black pillars sits on a thick bed of ice at the right far back corner of the picture. A white ramp extends outwards at the base of the building. A small cloud of smoke floats north of the facade of the station. The sun shines brightly. The snow in the foreground looks as if it has been chiselled by hand. The clear bleu sky serves as the background. ',
+		'<p>Neumayer Station III, Antartica <br>2015-10-14 GMT 08:59:09<br>640 × 480 pixels<br>RGB</p><br>The Neumayer Station, a white long rectangular building propped up in a series of black pillars sits on a thick bed of ice at the right far back corner of the picture. A white ramp extends outwards at the base of the building. A small cloud of smoke floats north of the facade of the station. The sun shines brightly. The snow in the foreground looks as if it has been chiselled by hand. The clear blue sky serves as the background. ',
 
 		'<p>Neumayer Station III, Antartica <br>2015-10-31 GMT 15:40:09<br>640 × 480 pixels<br>RGB</p><br>Field of Grey.',
 
@@ -37,9 +37,9 @@ $(document).ready(function() {
 
 		'<p>Neumayer Station III, Antartica <br>2015-10-31 GMT 17:09:16<br>640 × 480 pixels<br>RGB</p><br>In the middle, a curved grey shape surrounded by white dots contains a white doted trace of the top of the Neumayer Station. The shape stands in a field of grey gradients taking up the majority of the picture. The top is covered by clouds.',
 
-		'<p>Neumayer Station III, Antartica <br>2015-11-03 GMT 12:20:07<br>640 × 480 pixels<br>RGB</p><br>The Neumayer Station, sits on a thick bed of ice at the right far back corner of the picture. A white ramp extends outwards at the base of the building. The sun shines brightly. The snow in the foreground looks as if it has been chiselled by hand. The clear bleu sky serves as the background.',
+		'<p>Neumayer Station III, Antartica <br>2015-11-03 GMT 12:20:07<br>640 × 480 pixels<br>RGB</p><br>The Neumayer Station, sits on a thick bed of ice at the right far back corner of the picture. A white ramp extends outwards at the base of the building. The sun shines brightly. The snow in the foreground looks as if it has been chiselled by hand. The clear blue sky serves as the background.',
 
-		'<p>Neumayer Station III, Antartica <br>2015-12-08 GMT 16:10:08<br>640 × 480 pixels<br>RGB</p><br>The Neumayer Station, sits on a thick bed of ice at the right far back corner of the picture. A white ramp extends outwards at the base of the building. The sun shines brightly. The thick bed of ice in the foreground is covered with tracks. A human figure dressed in dark clothes holding something walks towards the camera. The clear bleu sky serves as the background.'
+		'<p>Neumayer Station III, Antartica <br>2015-12-08 GMT 16:10:08<br>640 × 480 pixels<br>RGB</p><br>The Neumayer Station, sits on a thick bed of ice at the right far back corner of the picture. A white ramp extends outwards at the base of the building. The sun shines brightly. The thick bed of ice in the foreground is covered with tracks. A human figure dressed in dark clothes holding something walks towards the camera. The clear blue sky serves as the background.'
 	];
 
 	var i = 0;
@@ -63,9 +63,9 @@ $(document).ready(function() {
 				}
 			};
 			if (i <= 7) {
-				setTimeout(play_text, 40000);
+				setTimeout(play_text, 30000);
 			} else {
-				setTimeout(play_text, 20000);
+				setTimeout(play_text, 10000);
 			}
 
 		};

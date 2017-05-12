@@ -3,7 +3,7 @@ $(document).ready(function() {
 	$('.element').on('DOMSubtreeModified', function() {
 		window.scrollTo(0, document.body.scrollHeight);
 	})
-	
+
 		$(function() {
 			$(".element").typed({
 

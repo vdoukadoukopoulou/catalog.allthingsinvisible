@@ -125,7 +125,7 @@ $(document).ready(function() {
 
 		'dealing with everything and its individual history.',
 
-		'cause noticing is a slow & careful practice that',
+		'cause noticing is a slow and careful practice that',
 
 		'takes time and patience, unlike stumbling upon a discovery.',
 
@@ -169,7 +169,7 @@ $(document).ready(function() {
 
 		'in itself is a plurality, and extend it the same sensitivity',
 
-		'as you did with the cobbllestones.',
+		'as you did with the cobblestones.',
 
 		'To be ok with the fact that you know ',
 
