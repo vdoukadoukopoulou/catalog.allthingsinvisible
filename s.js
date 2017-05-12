@@ -2,12 +2,12 @@ $(document).ready(function() {
 	var a = [
 		// Testing 9/5/2017
 		// [day of month, hour, min, sec]
-	  [10, 20, 30, 0],
+	  [12, 13, 45, 0],
 	  [10, 20, 22, 0],
 		[11, 23, 07, 0],
 
 		// Friday 12/5/2017
-		[12, 11, 45, 0],
+		[12, 12, 02, 0],
 		[12, 18, 30, 0],
 		[12, 20, 00, 0],
 
@@ -112,12 +112,15 @@ function nextShow(a) {
 			hour = a[i][1];
 			min = n(a[i][2]);
 			time = "<span class='timelist'>" + "<span class='line'>" + hour + ":" + min + "</span>" + "</span>";
-			console.log(time);
-			if (hour >= now.getHours() && min >= now.getMinutes()) {
+
+			if (hour > now.getHours() || min >= now.getMinutes() ) {
+				console.log(time);
 				if ($('#time_show').is(':empty')) {
 					$('#time_show').append(time);
+
 				} else {
 					$('#showingslist').append(time);
+
 				}
 			}
 		}

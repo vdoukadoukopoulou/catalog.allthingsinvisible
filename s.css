@@ -5,6 +5,7 @@ body {
     -webkit-font-smoothing: antialiased;
     margin: 0;
     margin: 10% 10%;
+    margin-top: 300px;
     cursor: none;
     color: white;
     background-color: #3c00ff;
