@@ -2,7 +2,7 @@ $(document).ready(function() {
 	var a = [
 		// Testing 9/5/2017
 		// [day of month, hour, min, sec]
-	  [12, 13, 45, 0],
+	  [10, 13, 45, 0],
 	  [10, 20, 22, 0],
 		[11, 23, 07, 0],
 
