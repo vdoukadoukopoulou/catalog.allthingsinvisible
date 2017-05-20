@@ -1,6 +1,5 @@
 # a detailed catalogue of all things invisible 
 
-located on https://vdoukadoukopoulou.github.io/invisible/
 
 sreennings at https://vdoukadoukopoulou.github.io/detail_catalog/
 
