@@ -8,15 +8,14 @@ body {
     text-rendering: optimizeLegibility;
     background-color: black;
     color: yellow;
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin: 0;
-    margin: 0 10%;
     cursor: none;
 }
 
 span {
     position: fixed;
     text-align: center;
-    bottom: 150px;
+    bottom: 50px;
     width: 80%;
 }

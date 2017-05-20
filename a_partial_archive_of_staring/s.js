@@ -48,7 +48,10 @@ $(document).ready(function() {
 	var lengthplusone = array.length + 1
 
 	function play_text() {
-		document.getElementsByTagName('span')[0].innerHTML = array[i];
+		if (typeof array[i] != 'undefined') {
+				document.getElementsByTagName('span')[0].innerHTML = array[i];
+		}
+
 		// console.log(array[i]);
 
 		if (i <= array.length) {
@@ -63,9 +66,9 @@ $(document).ready(function() {
 				}
 			};
 			if (i <= 7) {
-				setTimeout(play_text, 30000);
-			} else {
 				setTimeout(play_text, 10000);
+			} else {
+				setTimeout(play_text, 5000);
 			}
 
 		};

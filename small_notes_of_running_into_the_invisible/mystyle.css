@@ -1,13 +1,11 @@
 body {
     overflow: hidden;
-    font-family: 'Overpass', 'Ubuntu', sans-serif;
-    font-weight: 400;
+    font-family: 'Ubuntu', sans-serif;
     text-align: left;
     font-size: 2rem;
     margin: 200px;
-    margin-right: 400px;
     margin-top: 400px;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
     color: grey;
     line-height: 2.3rem;
     animation-name: background;
@@ -15,21 +13,6 @@ body {
     animation-timing-function: ease-in;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
-}
-
-.blocking {
-    width: 100%;
-    background-color: inherit;
-    animation-name: background;
-    animation-duration: 300s;
-    animation-timing-function: ease-in;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
-    height: 240px;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 900;
 }
 
 .title p {
