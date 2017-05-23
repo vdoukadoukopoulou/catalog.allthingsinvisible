@@ -1,4 +1,4 @@
-# a detailed catalogue of all things invisible 
+# a catalog of all things invisible 
 
 
 sreennings at https://vdoukadoukopoulou.github.io/detail_catalog/
