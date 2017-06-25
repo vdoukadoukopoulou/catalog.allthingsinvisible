@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Work_Sans';
+  src: url('fonts/Work_Sans/WorkSans-Bold.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Work Sans Bold', sans-serif;
+  font-size: 2.3rem;
+  text-rendering: optimizeLegibility;
+  margin: 0;
+  margin: 0% 10%;
+  cursor: none;
+  color: white;
+  background-color: #69403a;
+  color: white;
+}
+
+span {
+  position: fixed;
+  text-align: center;
+  bottom: 450px;
+  width: 80%;
+}

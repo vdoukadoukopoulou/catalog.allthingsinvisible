@@ -1,210 +1,214 @@
 $(document).ready(function() {
-	var array = ['I found a shore',
+  var array = ['I found a shore',
 
-		'3km away from Rovaniemi, on a hill',
+    '3km away from Rovaniemi, on a hill',
 
-		'it has been there for a while ',
+    'it has been there for a while ',
 
-		'[PAUSE]',
+    '[PAUSE]',
 
-		'for a long while',
+    'for a long while',
 
-		'but not many have noticed',
+    'but not many have noticed',
 
-		'DON’T FORGET YOUR BELONGINGS [title]',
+    'DON’T FORGET YOUR BELONGINGS [title]',
 
-		'It is hard to account fot a large mass of water when you have nothing to show for it. ',
+    'It is hard to account fot a large mass of water',
 
-		'I mean there is pollen trapped in fossils and ',
+    'when you have nothing to show for it. ',
 
-		'a few ripples on rocks signifying that waves used to crash on them.',
+    'I mean there is pollen trapped in fossils and ',
 
-		'But there are no paintings, no poems, ',
+    'a few ripples on rocks signifying that waves used to crash on them.',
 
-		'no epics and definitely no footage of it.',
+    'But there are no paintings, no poems, ',
 
-		'[fossil image]',
+    'no epics and definitely no footage of it.',
 
-		'but there was once a limpet,',
+    '[fossil image]',
 
-		'not this particular one, but one just like this one.',
+    'but there was once a limpet,',
 
-		'Gerard de Geer found it in sediments and',
+    'not this particular one, but one just like this one.',
 
-		'named the lake that existed 9,500 years ago after it.',
+    'Gerard de Geer found it in sediments and',
 
-		'Ancylus lake covered a large part of what today',
+    'named the lake that existed 9,500 years ago after it.',
 
-		'we consider the east coast of Sweden and the west coast of Finland.',
+    'Ancylus lake covered a large part of what today',
 
-		'Everything we know in the area was under water. ',
+    'we consider the east coast of Sweden and the west coast of Finland.',
 
-		'The local KMART, that person’s house,',
+    'Everything we know in the area was under water. ',
 
-		'my student housing, everything besides Ounasvaara. ',
+    'The local KMART,my student housing,',
 
-		'More precisely besides 93 meters of the top of Ounasvaara.',
+    'everything besides Ounasvaara. ',
 
-		'[PAUSE]',
+    'More precisely besides 93 meters of the top of Ounasvaara.',
 
-		'Ounasvaara was once an island ',
+    '[PAUSE]',
 
-		'[PAUSE]',
+    'Ounasvaara was once an island ',
 
-		'let me help you picture that .',
+    '[PAUSE]',
 
-		'cause there are so many large bodies of water you haven’t seen. ',
+    'let me help you picture that.',
 
-		'The freshwater Baltic Ice lake that drained ',
+    'Because there are so many large bodies of water you haven’t seen. ',
 
-		'into the brackish Yolidia Sea that was cornered off as Scandinavia grew,',
+    'The freshwater Baltic Ice lake that drained ',
 
-		'turning it from a saline sea to the fresh water Ancylus lake ',
+    'into the brackish Yolidia Sea that was cornered off,',
 
-		'that reached the level of global seas of the time ',
+    'and turned into the fresh water Ancylus lake ',
 
-		'around 8,500 years ago, and by that made ',
+    'that reached the level of global seas of the time ',
 
-		'for a brief glimpse of time, the Mastogloia sea. ',
+    'and by that made for a brief glimpse of time, ',
 
-		'Before the rising oceanic levels broke through ',
+    'the Mastogloia sea. ',
 
-		'the great belt and created the Littorina Sea,',
+    'Before the rising oceanic levels broke through ',
 
-		'the saltiest sea to exist,ever. ',
+    'and created the Littorina Sea,',
 
-		'That diminished by giving half of its volume ',
+    'the saltiest sea to exist,ever. ',
 
-		'and 26 percent of its surface to become the Baltic sea, ',
+    'That diminished by giving half of its volume ',
 
-		'which you may have actually seen with your own eyes.',
+    'and surface to become the Baltic sea, ',
 
-		'[PAUSE]',
+    'which you may have seen with your own eyes.',
 
-		'there stood, through it all, Ounasvaara, ',
+    '[PAUSE]',
 
-		'watching the water come and go, until there was no more.',
+    'there stood, through it all, Ounasvaara, ',
 
-		'[PAUSE]',
+    'watching the water come and go, until there was no more.',
 
-		'Today Ounasvaara ranks as one of the best spots ',
+    '[PAUSE]',
 
-		'to watch the northern lights in the area. ',
+    'Today Ounasvaara ranks as one of the best spots ',
 
-		'People on trip advisor and instagram advise future pilgrims,',
+    'to watch the northern lights in the area. ',
 
-		'to watch where they step and wear proper footwear.',
+    'People on trip advisor and instagram advise future pilgrims,',
 
-		'flipflops (?) I find myself asking.',
+    'to watch where they step and wear proper footwear.',
 
-		'Today people correct others when they call ',
+    'flipflops (?) I find myself asking.',
 
-		'Ounasvaara a mountain. “not tall enough” they say, “just a hill”',
+    'Today people correct others when they call ',
 
-		'island (?) I find myself wanting to say.',
+    'Ounasvaara a mountain. ',
 
-		'[PAUSE]',
+    '“not tall enough” they say, “just a hill”',
 
-		'somehow Ounasvaara’s beach aesthetic is missed. ',
+    'island (?) I find myself wanting to say.',
 
-		'Perhaps because the locals haven’t been around beaches ',
+    '[PAUSE]',
 
-		'as much as I have, perhaps because the weather ',
+    'somehow Ounasvaara’s beach aesthetic is missed. ',
 
-		'isn’t exactly what you would picture as beach climate ',
+    'Perhaps because the locals haven’t been around beaches ',
 
-		'or maybe because they don’t see traces of the past',
+    'as much as I have, perhaps because the weather ',
 
-		'everywhere like I do.',
+    'isn’t exactly what you would picture as beach climate ',
 
-		'[PAUSE]',
+    'or maybe because they don’t see traces of the past',
 
-		'It is logical.',
+    'everywhere like I do.',
 
-		'It is rather inconvenient going around ',
+    '[PAUSE]',
 
-		'dealing with everything and its individual history.',
+    'It is logical.',
 
-		'cause noticing is a slow and careful practice that',
+    'It is rather inconvenient going around ',
 
-		'takes time and patience, unlike stumbling upon a discovery.',
+    'dealing with everything and its individual history.',
 
-		'it involves allowing things to be greater',
+    'Because noticing is a slow and careful practice that',
 
-		'and more complex than your understanding of them.',
+    'takes time and patience, unlike stumbling upon a discovery.',
 
-		'it demands you to be present ',
+    'It involves allowing things to be greater',
 
-		'and actively choose the long hard way over the simplified one.',
+    'and more complex than your understanding of them.',
 
-		'simplifications act as explosions, ',
+    'It demands you to be present ',
 
-		'and noticing takes place when all is left is fragments.',
+    'and actively choose the long hard way over the simplified one.',
 
-		'[PAUSE]',
+    'simplifications act as explosions, ',
 
-		'To see the island you have to notice the cobblestones ',
+    'and noticing takes place when all is left is fragments.',
 
-		'when you hike up Ounasvaara to see the northern lights.',
+    '[PAUSE]',
 
- 'And to remember them when you head back down, ',
+    'To see the island you have to notice the cobblestones ',
 
-		'to take the time to look them up when you finally get home, ',
+    'when you hike up Ounasvaara to see the northern lights.',
 
-		'and to google translate all the pages you find ',
+     'And to remember them when you head back down, ',
 
-		'because they are in Finish.',
+    'to take the time to look them up when you finally get home, ',
 
-		'To accept that you don’t understand everything ',
+    'and to google translate all the pages you find ',
 
-		'you read about the geologic history of the area, ',
+    'because they are in Finnish.',
 
-		'and yet to continue.',
+    'To accept that you don’t understand everything ',
 
-		'To collect what seems important and to be able ',
+    'about the geological history of the area, ',
 
-		'to imagine the sea when all you read about is raised beaches.',
+    'and yet to continue.',
 
-		'To keep in mind the sea and to understand that it ',
+    'To collect what seems important and to be able ',
 
-		'in itself is a plurality, and extend it the same sensitivity',
+    'to imagine the sea when all you read about is raised beaches.',
 
-		'as you did with the cobblestones.',
+    'To keep in mind the sea and to understand that it ',
 
-		'To be ok with the fact that you know ',
+    'in itself is a plurality, and to extend it the same sensitivity,',
 
-		'the fragments you choose to collect may not always',
+    'as you did with the cobblestones.',
 
-		'be the ones needed to assemble the “correct picture”.',
+    'To be ok with the fact that you know ',
 
-		'To put together the most complex picture you can ',
+    'the fragments you choose to collect may not always',
 
-		'and to proceed discussing it as intricately ',
+    'be the ones needed to assemble the “correct picture”.',
 
-		'and complexly as you can and the situation allows you.',
+    'To put together the most complex picture ',
 
-		'to proceed, to notice, to repeat.',
+    'and to proceed discussing it as intricately ',
 
-		'  '
-	];
+    'as you can and the situation allows you.',
 
+    'to proceed, to notice, to repeat.',
 
-	var i = 0;
-	play_text();
+    '  '
+  ];
 
-	function play_text() {
-		if (typeof array[i] !== 'undefined') {
-			document.getElementsByTagName('span')[0].innerHTML = array[i];
-			console.log("linenumber: " + i + " = " + array[i]);
-			i++
-		}
-		if (i <= array.length) {
-			if (i === array.length) {
-				setTimeout(function() {
-					window.location.href = '../a_partial_archive_of_staring/i.html'
-				}, 7000);
-			};
-			setTimeout(play_text, 4000);
-		};
-	};
+
+  var i = 0;
+  play_text();
+
+  function play_text() {
+    if (typeof array[i] !== 'undefined') {
+      document.getElementsByTagName('span')[0].innerHTML = array[i];
+      console.log("linenumber: " + i + " = " + array[i]);
+      i++
+    }
+    if (i <= array.length) {
+      if (i === array.length) {
+        setTimeout(function() {
+          window.location.href = '../here_now_look/index.html'
+        }, 7000);
+      };
+      setTimeout(play_text, 4000);
+    };
+  };
 });

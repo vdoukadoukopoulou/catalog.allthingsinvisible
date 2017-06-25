@@ -1,21 +1,67 @@
+@font-face {
+   font-family: 'overpass';
+   src: url('overpass-regular.eot');
+   src: url('overpass-regular.eot?#iefix') format('embedded-opentype'), url('overpass-regular.woff2') format('woff2'), url('overpass-regular.woff') format('woff'), url('overpass-regular.ttf') format('truetype');
+   font-weight: 500;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'GT-Sectra';
+   src: url('GT-Sectra-Regular-Italic.woff') format('woff');
+}
+
+@font-face {
+   font-family: 'GT-Sectra-Fine';
+   src: url('GT-Sectra-Fine-Book-Italic.woff') format('woff');
+}
+
+.left {
+   display: inline-block;
+   float: left;
+   width: 50%;
+   margin-top: 38px;
+   font-size: 32px;
+   line-height: 42px;
+}
+
+.left p {
+   -webkit-margin-before: 0em;
+   -webkit-margin-after: 1em;
+}
+
+.right p {
+   -webkit-margin-before: 1em;
+   -webkit-margin-after: 0px;
+}
+
+.right {
+   display: inline-block;
+   float: right;
+   width: 50%;
+   text-align: left;
+   font-family: 'GT-Sectra', serif;
+   font-size: 36px;
+   line-height: 43px;
+   margin-bottom: 70px;
+}
+
 body {
-    font-family: 'Overpass', 'Fira Sans', sans-serif;
-    font-size: 26px;
-    line-height: 32px;
-    -webkit-font-smoothing: antialiased;
-    margin: 0;
-    margin: 10% 10%;
-    cursor: none;
-    color: white;
-    background-color: #3c00ff;
+   font-family: Helvetica, 'overpass', 'Fira Sans', sans-serif;
+   -webkit-font-smoothing: antialiased;
+   margin: 0;
+   margin: 10% 10%;
+   margin-top: 300px;
+   color: #999999;
+   background-color: #150058;
 }
 
-.line {}
-
-.timelist:after {
-    content: ", ";
+ul {
+   list-style-type: lower-greek;
+   list-style-position: inside;
 }
 
-.timelist:last-child:after {
-    content: "";
+li {
+   padding-left: 1.28571429em;
+   text-indent: -1em;
 }
