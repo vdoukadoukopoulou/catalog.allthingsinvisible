@@ -2,13 +2,13 @@ body {
    overflow: hidden;
    font-family: 'Ubuntu', sans-serif;
    text-align: left;
-   font-size: 2.2rem;
-   margin-right: 400px;
-   margin-left: 400px;
+   font-size: 1.3rem;
+   margin-right: 200px;
+   margin-left: 200px;
    margin-top: 500px;
    margin-bottom: 400px;
    color: grey;
-   line-height: 2.3rem;
+   line-height: 1.3rem;
    animation-name: background;
    animation-duration: 300s;
    animation-timing-function: ease-in;
