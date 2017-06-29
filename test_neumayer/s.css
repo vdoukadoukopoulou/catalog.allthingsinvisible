@@ -17,7 +17,7 @@
 header {
    display: inline-block;
    text-align: left;
-   margin-top: 55%;
+   margin-top: 65%;
    margin-left: : 10%;
    margin-right: 10%;
 }
@@ -27,7 +27,7 @@ header {
    text-align: left;
    margin-bottom: 300px;
    margin-top: 300px;
-   margin-right: 300px;
+   margin-right: 200px;
 }
 
 body {
@@ -44,7 +44,7 @@ body {
    color: black;
    background-color: #000000;
    text-align: justify;
-   font-size: 2rem;
+   font-size: 1.3rem;
    margin-top: 50px;
    margin-left: 200px;
    margin-right: 40px;
