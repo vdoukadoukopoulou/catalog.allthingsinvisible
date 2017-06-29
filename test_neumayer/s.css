@@ -17,22 +17,24 @@
 header {
    display: inline-block;
    text-align: left;
-   margin: 70% 10%;
+   margin-top: 55%;
+   margin-left: : 10%;
+   margin-right: 10%;
 }
 
 .interlude {
    margin-left: 200px;
    text-align: left;
    margin-bottom: 300px;
-   margin-top: 100px;
+   margin-top: 300px;
    margin-right: 300px;
 }
 
 body {
    /*  -webkit-animation: background 5s easein infinite;
     animation: background 5s easein infinite;  */
-   -webkit-animation: background 240s;
-   animation: background 240s;
+   -webkit-animation: background 260s;
+   animation: background 260s;
    ;
    -webkit-animation-timing-function: linear;
    animation-timing-function: linear;
@@ -42,22 +44,24 @@ body {
    color: black;
    background-color: #000000;
    text-align: justify;
-   font-size: 2.3rem;
-   margin: 0;
-   margin: 0 20%;
-   margin-top: 500px;
+   font-size: 2rem;
+   margin-top: 50px;
+   margin-left: 200px;
+   margin-right: 40px;
    overflow: hidden;
    text-rendering: optimizeLegibility;
 }
 
 .right {
    text-align: right;
-   margin: inherit;
+   margin-bottom: 300px;
+   margin-right: 300px;
 }
 
 .left {
    text-align: left;
-   margin: inherit;
+   margin-left: 200px;
+   margin-right: 300px;
 }
 
 ul {
