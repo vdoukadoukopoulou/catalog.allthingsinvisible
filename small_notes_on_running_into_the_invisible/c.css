@@ -5,8 +5,8 @@ body {
    font-size: 1.3rem;
    margin-right: 200px;
    margin-left: 200px;
-   margin-top: 500px;
-   margin-bottom: 400px;
+   margin-top: 300px;
+   margin-bottom: 200px;
    color: grey;
    line-height: 1.3rem;
    animation-name: background;
@@ -24,7 +24,7 @@ body {
    animation-timing-function: ease-in;
    animation-iteration-count: 1;
    animation-fill-mode: forwards;
-   height: 240px;
+   height: 200px;
    position: fixed;
    top: 0;
    left: 0;
