@@ -2,13 +2,13 @@ body {
    overflow: hidden;
    font-family: 'Ubuntu', sans-serif;
    text-align: left;
-   font-size: 2.2rem;
-   margin-right: 400px;
-   margin-left: 400px;
-   margin-top: 500px;
-   margin-bottom: 400px;
+   font-size: 1.3rem;
+   margin-right: 200px;
+   margin-left: 200px;
+   margin-top: 300px;
+   margin-bottom: 200px;
    color: grey;
-   line-height: 2.3rem;
+   line-height: 1.3rem;
    animation-name: background;
    animation-duration: 300s;
    animation-timing-function: ease-in;
@@ -24,7 +24,7 @@ body {
    animation-timing-function: ease-in;
    animation-iteration-count: 1;
    animation-fill-mode: forwards;
-   height: 240px;
+   height: 200px;
    position: fixed;
    top: 0;
    left: 0;
