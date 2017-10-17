@@ -1,3 +1,3 @@
 # invisible
 
-located on https://vdoukadoukopoulou.github.io/invisible/
+located on https://allthingsinvisible.online
