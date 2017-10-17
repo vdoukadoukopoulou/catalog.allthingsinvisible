@@ -1,110 +1,84 @@
                                         @font-face {
-                                        font-family: 'overpass';
-                                        src: url('overpass-regular.eot');
-                                        src: url('overpass-regular.eot?#iefix') format('embedded-opentype'), url('overpass-regular.woff2') format('woff2'), url('overpass-regular.woff') format('woff'), url('overpass-regular.ttf') format('truetype');
-                                        font-weight: 500;
-                                        font-style: normal;
-                                    }
-                                    
-                                    @font-face {
-                                        font-family: 'GT-Sectra';
-                                        src: url('GT-Sectra-Regular-Italic.woff') format('woff');
-                                    }
-                                    
-                                    @font-face {
-                                        font-family: 'GT-Sectra-Fine';
-                                        src: url('GT-Sectra-Fine-Book-Italic.woff') format('woff');
-                                    }
-                                    
-                                    body {
-                                        font-family: 'overpass', 'Fira Sans', sans-serif;
-                                        -webkit-font-smoothing: antialiased;
-                                        margin-right: 45vw;
-                                        margin-left: 30vw;
-                                        margin-top: 40vh;
-                                        color: #999999;
-                                        background-color: #150058;
-                                    }
-                                    
+                                            font-family: 'overpass';
+                                            src: url('overpass-regular.eot');
+                                            src: url('overpass-regular.eot?#iefix') format('embedded-opentype'), url('overpass-regular.woff2') format('woff2'), url('overpass-regular.woff') format('woff'), url('overpass-regular.ttf') format('truetype');
+                                            font-weight: 500;
+                                            font-style: normal;
+                                        }
+                                        
+                                        @font-face {
+                                            font-family: 'GT-Sectra';
+                                            src: url('GT-Sectra-Regular-Italic.woff') format('woff');
+                                        }
+                                        
+                                        @font-face {
+                                            font-family: 'GT-Sectra-Fine';
+                                            src: url('GT-Sectra-Fine-Book-Italic.woff') format('woff');
+                                        }
+                                        
+                                        body {
+                                            font-family: 'overpass', 'Fira Sans', sans-serif;
+                                            -webkit-font-smoothing: antialiased;
+                                            margin-right: 45vw;
+                                            margin-left: 30vw;
+                                            margin-top: 40vh;
+                                            color: #999999;
+                                            background-color: #150058;
+                                        }
+                                        
+                                        a:link {
+                                            color: red;
+                                            text-decoration-line: none;
+                                     
+                                        }
 
-a:link {
-    color: red;
-    text-decoration-line: none;
-   /*--------- text-decoration-color: red;
-    text-decoration-line: underline;
-    text-decoration-style:wavy;---------*/
-}
-                                    ul {
-                                        list-style-type: lower-greek;
-                                        list-style-position: inside;
-                                    }
-                                    
-                                    li {
-                                        padding-left: 1.28571429em;
-                                        text-indent: -1em;
-                                    }
-                                    
-                                    header {
-                                        margin-top: 30%;
-                                        margin-left: 0px;
-                                        color: #ffa993;
-                                        text-indent: -5em;
-                                        font-size: 16px;
-                                        padding-bottom: 0px;
-                                        line-height: 2px;
-                                    }
-                                    
-                                    header p:nth-of-type(2) {
-                                        text-indent: -4.3em;
-                                    }
-                                    /*--------- media queries ---------*/
-                                    
-                                    @media only screen and (max-width: 1450px) {
-                                        body {
-                                            text-align: left;
-                                            margin-top: 30vh;
-                                            margin-right: 30vw;
-                                            margin-left: 30vw;
-                                            font-size: 16px;
+
+                                        /*--------- media queries ---------*/
+                                        
+                                        @media only screen and (max-width: 1450px) {
+                                            body {
+                                                text-align: left;
+                                                margin-top: 30vh;
+                                                margin-right: 30vw;
+                                                margin-left: 30vw;
+                                                font-size: 16px;
+                                            }
                                         }
-}
-                                    
-                                    @media only screen and (max-width: 1280px) {
-                                         body {
-                                            text-align: left;
-                                            margin-top: 30vh;
-                                            margin-right: 30vw;
-                                            margin-left: 30vw;
-                                            font-size: 16px;
+                                        
+                                        @media only screen and (max-width: 1280px) {
+                                            body {
+                                                text-align: left;
+                                                margin-top: 30vh;
+                                                margin-right: 30vw;
+                                                margin-left: 30vw;
+                                                font-size: 16px;
+                                            }
                                         }
-}
-                                    
-                                    @media only screen and (max-width: 1024px) {
-                                        body {
-                                            text-align: left;
-                                            margin-top: 20vh;
-                                            margin-right: 15vw;
-                                            margin-left: 15vw;
-                                            font-size: 22px;
+                                        
+                                        @media only screen and (max-width: 1024px) {
+                                            body {
+                                                text-align: left;
+                                                margin-top: 20vh;
+                                                margin-right: 15vw;
+                                                margin-left: 15vw;
+                                                font-size: 22px;
+                                            }
                                         }
-}
-                                    
-                                    @media only screen and (max-width: 768px) {
-                                        body {
-                                            
-                                            margin-top: 20vh;
-                                            margin-right: 15vw;
-                                            margin-left: 15vw;
-                                            font-size: 20px;
+                                        
+                                        @media only screen and (max-width: 768px) {
+                                            body {
+                                                margin-top: 20vh;
+                                                margin-right: 15vw;
+                                                margin-left: 15vw;
+                                                font-size: 20px;
+                                            }
                                         }
-                                    }
-                                    
-                                    @media only screen and (max-width: 460px) {
-                                        body {
-                                            margin-top: 20vh;
-                                            margin-right: 15vw;
-                                            margin-left: 15vw;
-                                            font-size: 12px;
+                                        
+                                        @media only screen and (max-width: 460px) {
+                                            body {
+                                                margin-top: 20vh;
+                                                margin-right: 15vw;
+                                                margin-left: 15vw;
+                                                font-size: 12px;
+                                            }
                                         }
-                                    }
-                                 
