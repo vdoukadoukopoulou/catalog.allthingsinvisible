@@ -1,3 +1,3 @@
 # invisible
 
-located on https://allthingsinvisible.online
+located on https://acatalog.allthingsinvisible.online
